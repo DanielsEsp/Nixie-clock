@@ -1,6 +1,9 @@
 # NixieClock
 Simulation horloge avec tubes type 'Nixie' sur TFT 480x320
 
-![20241217_095607](https://github.com/user-attachments/assets/9b04abdc-a249-478d-84d2-396798025e27)
+![NixieClock](https://github.com/user-attachments/assets/63c829ac-6304-44e7-9e2a-a9d5687044bb)
+
+
+
 
 
