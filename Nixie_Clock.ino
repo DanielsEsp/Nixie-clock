@@ -3,8 +3,8 @@
 
 
 #include <WiFi.h>
-          const char * ssid="Bbox-Lux";
-          const char * wifipw="2427242711";
+          const char * ssid="@@@@@@@@@@@@";
+          const char * wifipw="##########";
 
 #include "time.h"
           int dizHeure, uniHeure, dizMinute, uniMinute, dizDate, uniDate;
